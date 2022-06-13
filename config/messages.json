@@ -1,0 +1,29 @@
+{
+    "token": {
+        "invalid": "invalid_or_expired_token",
+        "isUndefined": "token_is_undefined"
+    },
+    "fields": {
+        "required": "required",
+        "nameRequired": "name_required",
+        "nameLong": "name_is_to_long",
+        "surnameRequired": "surname_required",
+        "surnameLong": "surname_is_to_long",
+        "emailRequired": "email_required",
+        "invalidEmail": "invalid_email",
+        "passwordRequired": "password_required",
+        "passwordsNotMatch": "passwords_must_match"
+    },
+    "auth": {
+        "badCredencials": "bad_credencials"
+    },
+    "user": {
+        "updated": "user_updated",
+        "created": "user_created",
+        "dontExists": "user_dont_exists",
+        "emailDontExists": "email_dont_exists",
+        "userHashIsWrong": "user_hash_link_is_wrong",
+        "userHashLinkRequired": "user_hash_link_required",
+        "userActivated": "user_activated"
+    }
+}
